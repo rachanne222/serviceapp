@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eb41d96-3f27-4dcd-8c37-8dbc63f0c494" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../appdesign/lib/presentation/analytics_screen/analytics_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../appdesign/lib/presentation/analytics_screen/bloc/analytics_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../appdesign/lib/presentation/analytics_screen/bloc/analytics_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../appdesign/lib/presentation/analytics_screen/bloc/analytics_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../appdesign/lib/presentation/analytics_screen/models/analytics_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-ldpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/playstore-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/android/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/iTunesArtwork@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/iTunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/ios/Runner/Assets.xcassets/iTunesArtwork@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/OrderHistoryModel-driver-reciver-remover.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/address_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/about.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/account_information/account_information.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/account_information/edit_email.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/account_information/edit_name.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/account_information/edit_phone_number.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/last_seen_product.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/notification_setting.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/order/order_detail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/order/order_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/order/order_status.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/payment_method/add_payment_method.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/payment_method/edit_payment_method.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/payment_method/payment_method.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/privacy_policy.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/set_address/add_address.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/set_address/edit_address.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/set_address/set_address.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/tab_account.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/appBar/account/terms_conditions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/app_user_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/banner_slider_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/company_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/individual_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/restaurant_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/review_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/searchNeedDirt.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/search_address.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/search_jobs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/model/apps/commercialOrders/shopping_cart_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/ui/apps/commercial/gitthedirt_home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/devkit_flutter/lib/version.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-ldpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/playstore-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/android/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/iTunesArtwork@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/iTunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_ecommerce/ios/Runner/Assets.xcassets/iTunesArtwork@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mainfile/v18.0.0/separate_ui_kit/devkit_flutter_food/lib/model/address_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/nutrifit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../nutrifit/nutrifit-refined-flutter" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2bpPy4a3wZn3LnSkrkaUt6E7Qfc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "sc-3014/remaining-work-sprint-26",
+    "last_opened_file_path": "/Users/rachelsickle/Novvia/flutter_projects/handyman_mainfile_sourcecode/Admin Panel/latest version/handyman_service",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eb41d96-3f27-4dcd-8c37-8dbc63f0c494" name="Changes" comment="" />
+      <created>1706909298737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706909298737</updated>
+    </task>
+    <servers />
+  </component>
+</project>
